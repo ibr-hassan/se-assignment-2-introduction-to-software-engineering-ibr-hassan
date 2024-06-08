@@ -456,6 +456,11 @@ To ensure they adhere to ethical standards in their work, software engineers can
 
 By prioritizing ethical considerations in their work and taking proactive steps to address ethical issues, software engineers can contribute to the development of responsible, trustworthy, and beneficial technologies that enhance the well-being of individuals and society.
 
+References:
+https://www.google.com/search?q=What+is+software+engineering%2C+and+how+does+it+differ+from+traditional+programming%3F+Software+Development+Life+Cycle+(SDLC)&rlz=1C1CHBD_enNG910NG910&oq=What+is+software+engineering%2C+and+how+does+it+differ+from+traditional+programming%3F+Software+Development+Life+Cycle+(SDLC)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEwNzNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+https://www.google.com/search?q=Define+Software+Engineering&rlz=1C1CHBD_enNG910NG910&oq=Define+Software+Engineering&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzQ2MWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
